@@ -3,7 +3,7 @@
  <img align="right" alt="Programmer illustration" src="https://raw.githubusercontent.com/siddhant36/siddhant36/main/coder_sahil_bhagat.png" width="520" height="400" />
 
 
-## I'm a Student, Developer, Creator, and !!
+## I'm a Student, Developer and Creator!!
 - ✍ You can find my projects here [portfolio]
 - 🌐 I’m currently learning React and NodeJS
 - 👯 I’m looking to collaborate on open source
