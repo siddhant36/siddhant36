@@ -42,10 +42,12 @@
 <br />
 <br />
 
+<br />
 
-  ### GitHub Stats 🎯
+### GitHub Stats 🎯
 
-  <img align="left" alt="Siddhant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddhant36&theme=radical&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Siddhant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddhant36&theme=radical&show_icons=true&hide_border=true" />
 
 
 <!--<details>
