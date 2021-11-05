@@ -7,9 +7,9 @@
 - ✍ You can find my projects here [portfolio]
 - 🌐 I’m currently learning React and NodeJS
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... programming, technology and startups
+- 💬 Ask me about programming, technology and startups
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I think I am funny 
+- ⚡ Fun fact : Jamming great music and playing  a guitar are my go to activities.
 
 
 ### Talk with me, I am kinda awesome:
