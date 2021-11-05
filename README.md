@@ -6,7 +6,7 @@
 ## I'm a Student, Developer and Creator!!
 - ✍ You can find my projects here [portfolio]
 - 🌐 I’m currently learning React and NodeJS
-- 👯 I’m looking to collaborate on open source
+- 👯 Looking to collaborate on open source projects
 - 💬 Ask me about programming, technology and startups
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Jamming great music and playing  a guitar are my go to activities.
